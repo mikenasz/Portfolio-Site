@@ -1,0 +1,62 @@
+
+.navbar{
+    background-color: rgb(7, 57, 97);
+}
+
+.main {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url("../img/main.jpg");
+    
+  }
+ .name-div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+  #name{
+    margin: 0 auto;
+    font-size: 2em;
+    text-align: center;
+    color: rgb(185, 179, 179);
+    padding: 0 2vw;
+  }
+  
+.headers{
+    font-family: 'Impact', fantasy;
+    color: rgb(41, 118, 180);
+    margin-top: 25px;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: rgba(0, 0, 0, 0.37);
+}
+.sociali {
+  font-size: 2em;
+  line-height: 1.2em;
+  padding: 10px;
+  background: #2A85BC;
+  color: #fff;
+  margin: 10px;
+  margin-bottom: 10px !important;
+  padding-bottom: 10px !important;
+}
+.bi-laptop,.bi-person{
+  font-size: 3em;
+
+}
+.card-text{
+  text-justify: auto;
+}
+    
